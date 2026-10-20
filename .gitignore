@@ -6,3 +6,4 @@ secrets/
 .env
 *.tmp
 .DS_Store
+lab-ca.crt
